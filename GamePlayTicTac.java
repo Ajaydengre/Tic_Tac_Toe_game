@@ -99,7 +99,7 @@ public class GamePlayTicTac extends JPanel implements MouseListener,
 			
 			g3.setColor(Color.yellow);
 			g3.setFont(new Font("Comic Sans Ms",Font.ITALIC,20));
-			g3.drawString("Click! To play Again"+scorecross, 20, 200);
+			g3.drawString("Click! To play Again", 20, 200);
 		}
 		if(bug==1){
 			g3.setColor(Color.red);
@@ -118,7 +118,7 @@ public class GamePlayTicTac extends JPanel implements MouseListener,
 			
 			g3.setColor(Color.yellow);
 			g3.setFont(new Font("Comic Sans Ms",Font.ITALIC,20));
-			g3.drawString("Click! To play Again"+scorecross, 20, 200);
+			g3.drawString("Click! To play Again", 20, 200);
 		}
 		g3.dispose();
 		
