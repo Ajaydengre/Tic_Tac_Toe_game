@@ -160,7 +160,7 @@ public class GamePlayTicTac extends JPanel implements MouseListener,
 			}
 			
 			repaint();
-			
+			flag=1;
 		     
 		     gameplay=false;
 		     
